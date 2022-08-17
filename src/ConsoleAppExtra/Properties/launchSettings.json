@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppExtra": {
+      "commandName": "Project",
+      "commandLineArgs": "--akey=\"akey value\" --bkey=\"bkey value\""
+    }
+  }
+}
