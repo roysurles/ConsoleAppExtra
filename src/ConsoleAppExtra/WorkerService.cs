@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.Logging;
-
-namespace ConsoleAppExtra;
+﻿namespace ConsoleAppExtra;
 
 public class WorkerService : IWorkerService
 {
